@@ -1,0 +1,2 @@
+- name: Ephemeral GCE GitHub self-hosted runner
+  uses: related-sciences/gce-github-runner@v0.4
